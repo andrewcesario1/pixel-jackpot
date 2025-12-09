@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - slotSymbols
+  - Game Over
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 2702898089
+    locked: 0
+  - name: DealerDoor
+    uniqueID: 4289155283
+    locked: 0
+  - name: Sprites
+    uniqueID: 1011179753
+    locked: 0
+  - name: Decorations
+    uniqueID: 502950637
+    locked: 0
+  - name: Interactables
+    uniqueID: 130097795
+    locked: 0
+  - name: Player
+    uniqueID: 3820180989
+    locked: 0
+  - name: decorations_walkThru
+    uniqueID: 3807411429
+    locked: 0
+  - name: UIText
+    uniqueID: 3243323561
+    locked: 0
+  - name: Decorationsinfront
+    uniqueID: 2461947029
+    locked: 0
