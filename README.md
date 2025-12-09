@@ -1,12 +1,10 @@
 # Pixel Jackpot
 
-[![Game Preview](https://img.youtube.com/vi/ulbLJVsZhzo/maxresdefault.jpg)](https://youtu.be/ulbLJVsZhzo)
-
 A 2D pixel art casino game built with Unity. Players explore a casino environment, play classic casino games including slots, blackjack, and roulette, complete objectives, and manage their money to progress through the game.
 
 ## Demo
 
-[![Game Preview](https://img.youtube.com/vi/ulbLJVsZhzo/maxresdefault.jpg)](https://youtu.be/ulbLJVsZhzo)
+[![Game Preview](https://img.youtube.com/vi/ulbLJVsZhzo/0.jpg)](https://youtu.be/ulbLJVsZhzo)
 
 ## What It Is
 
