@@ -181,6 +181,22 @@ Controls:
 └── Packages/                 # Package dependencies
 ```
 
+## Assets Used
+
+### Casino Tilemap
+- [2D Top Down Pixel Art Tileset Casino](https://gamebetweenthelines.itch.io/2d-top-down-pixel-art-tileset-casino)
+
+### Pixel Art Characters
+- [Ninja Adventure Asset Pack](https://pixel-boy.itch.io/ninja-adventure-asset-pack)
+
+### Music & Sound Effects
+- Local Forecast - Elevator by Kevin MacLeod: [Local Forecast - Elevator](https://incompetech.com/music/royalty-free/music.html)
+- Slot Machine Reel Spin: [Fruit Machine Sound Win or Spin Tone](https://www.zapsplat.com/music/fruit-machine-sound-win-or-spin-tone-2/)
+- Deal Card: [Large Thick Playing Card Set Down Single Deal](https://www.zapsplat.com/music/large-thick-playing-card-set-down-single-deal-2/)
+- Complete Objective: [Game Sound Award Hit Win Coins](https://www.zapsplat.com/music/game-sound-award-hit-win-coins/)
+- Roulette Sound: Sounds Effects - Roulette game (Roleta jogo)
+- Coin Toss Sound: Fear and Hunger Coin Flip/Toss Sound effect
+
 ## References
 
 - [Unity Documentation](https://docs.unity3d.com/)
