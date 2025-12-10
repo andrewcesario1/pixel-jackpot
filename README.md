@@ -6,6 +6,11 @@ A 2D pixel art casino game built with Unity. Players explore a casino environmen
 
 [![Game Preview](https://img.youtube.com/vi/ulbLJVsZhzo/0.jpg)](https://youtu.be/ulbLJVsZhzo)
 
+### Play Online
+**Try the game yourself**: [Play Pixel Jackpot](https://play.unity.com/en/games/1872c98a-c89f-4805-b80f-324ab9f2b133/pixel-jackpot)
+
+*Note: Go full screen for optimal UI experience*
+
 ## What It Is
 
 Pixel Jackpot is a top-down 2D casino game where you control a character exploring a multi-room casino. The game features three main casino games (slot machines, blackjack, and roulette), an objective system that guides gameplay, NPC interactions, and a money management system. Players can purchase VIP access, use power-up items, and save their progress.
